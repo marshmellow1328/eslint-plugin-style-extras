@@ -1,0 +1,18 @@
+{
+  "name": "eslint-plugin-style-extras",
+  "version": "1.0.0",
+  "description": "ESLint rules for formatting function calls",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "keywords": [
+    "eslint",
+    "eslint-plugin"
+  ],
+  "author": "Shawn Sparks <sparks.shawn@principal.com>",
+  "license": "MIT",
+  "devDependencies": {
+    "eslint": "5.12.0"
+  }
+}
